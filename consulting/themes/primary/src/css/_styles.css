@@ -1,0 +1,9 @@
+/* Put your custom styles here and run `npm start` from the "src" directory on */
+
+body {
+	font-family: 'Libre Baskerville', serif;
+}
+
+#TableOfContents ul li {
+  margin-bottom: 1em;
+}

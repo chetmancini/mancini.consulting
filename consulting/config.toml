@@ -1,0 +1,6 @@
+baseURL = "http://mancini.consulting/"
+languageCode = "en-us"
+title = "Chet Mancini Consulting"
+theme = "primary"
+
+omit_header_text = true
