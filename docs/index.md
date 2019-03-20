@@ -10,10 +10,16 @@ I have a strong track record of impacting business with state of the art technic
 
 There's a good chance I can add massive value to your business too. I would be happy to meet and talk about what we can build together.
 
-## Key areas
+## Key areas of expertise
 
-* Data systems
+* Large data systems and pipelines
 * Machine learning productionization
-* Hiring and recruiting
+* Hiring and recruiting top tier engineers
 * AWS/cloud cost control
+* Security infrastructure
+* Data governance and privacy
 
+
+## Previous Work
+
+A <a href="cv.html">traditional CV</a> of work is available as well.
