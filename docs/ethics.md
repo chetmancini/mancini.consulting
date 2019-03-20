@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chet Mancini Consulting
+nav-active-ethics: active
 ---
 
 # Ethics and Disclaimer
