@@ -30,9 +30,7 @@ Occasionally I may do a short experiment with a new or unfamiliar technology, ev
 
 If I have a choice between two solutions to a problem that are equivalent in implementation time/error rate/etc, I will choose the one that is more likely to advance my career, or lead to a future talk/blog post. I'm happy to credit you as a sponsor if I develop a blog post or talk based on something I've learned while working with you.
 
-You might ask for a feature that I think is a bad idea. If I tell you I don't think it's a good idea, will this jeopardize our working relationship? In the past I have had success telling clients what I think; if you want to proceed despite my objections, I have no problems implementing the feature in question.
-
-Related: if you think something would take a long time, and I can get it done quickly, I may be reducing the amount of time I can bill for! I'll never do something more slowly on purpose. If this reduces the amount of future work, beyond our contractual agreement, so be it; hopefully I can make up for it in recommendations from happy clients, or by working on other projects in the extra time we have.
+I will never do something more slowly on purpose.
 
 ## Unethical Requests
 I won't agree to do work that I believe is unethical. I am a little hesitant to define this too precisely, because there may be categories I don't define that are obviously wrong. But here are some examples of things I won't do:
