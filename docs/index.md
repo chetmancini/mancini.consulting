@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Chet Mancini Consulting
+nav-active-index: active
 ---
 
 # Chet Mancini Consulting
