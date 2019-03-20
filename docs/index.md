@@ -5,8 +5,16 @@ title: Chet Mancini Consulting
 
 # Chet Mancini Consulting
 
+## Key areas
+
+* Data systems
+* Machine learning productionization
+* Hiring and recruiting
+* AWS/cloud cost control
+
 ## heres an h2
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut accumsan gravida luctus. Mauris sagittis pretium lectus, eget dapibus nisi. Nulla facilisi. Curabitur eu ligula eu ex laoreet rhoncus. Donec condimentum ipsum nec efficitur vestibulum. Proin eros mi, facilisis sit amet faucibus quis, pretium vitae ipsum. Proin elit est, condimentum ut purus sit amet, mollis fermentum lorem.
+
 
 ## another
 Ut luctus mollis sem, nec congue nunc porttitor nec. Duis leo felis, sollicitudin a mattis quis, consectetur et massa. Suspendisse potenti. Donec id ultricies neque, sed aliquam enim. Mauris et cursus massa. Mauris elementum elementum odio ut imperdiet. Pellentesque congue mauris in eleifend fermentum. Pellentesque semper ipsum non eleifend mollis. Suspendisse dapibus hendrerit ipsum, id fringilla orci convallis non. Proin aliquam iaculis convallis.
