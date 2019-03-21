@@ -10,7 +10,7 @@ I have a strong track record of impacting business with state of the art technic
 
 There's a good chance I can add massive value to your business too. I would be happy to meet and talk about what we can build together.
 
-<img src="/assets/img/chet_stairs.jpg" id="img-chet-stairs">
+<img src="/assets/img/chet_stairs.jpg" id="img-chet-stairs" width="400">
 
 ## Key areas of expertise
 
@@ -21,7 +21,7 @@ There's a good chance I can add massive value to your business too. I would be h
 * Security infrastructure
 * Data governance and privacy
 
-<img src="/assets/img/newyork.jpg" id="img-newyork">
+<img src="/assets/img/newyork.jpg" id="img-newyork" width="200">
 
 ## Previous Work
 
