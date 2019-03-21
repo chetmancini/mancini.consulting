@@ -6,7 +6,7 @@ nav-active-index: active
 
 # Chet Mancini Consulting
 
-I have a strong track record of impacting business with state of the art technical solutions.
+I have a strong track record of delivery with state-of-the-art human and technical solutions using first princples and a data-oriented approach.
 
 There's a good chance I can add massive value to your business too. I would be happy to meet and talk about what we can build together.
 
