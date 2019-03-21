@@ -24,6 +24,9 @@ There's a good chance I can add massive value to your business too. I would be h
 
 A <a href="cv.html">traditional CV</a> of work is available as well.
 
+### Problem: Very large database queries in Python taking too much memory on Linux.
+Solution: Build Java-based SQL query system that can flexibly perform the same actions with a much better garbage collector and constrained heap size with the JVM.
+
 ### Problem: Customers delete cookies and means ad targeting fails
 Solution: Collect identifiers from first-party cookies in JS in a strong pattern, ship at scale to server, and use DynamoDB under complicated design to 'find' data from deleted cookies in realtime and wihin low-ms SLAs (developed before Dynamo supported multiple indicies).
 
