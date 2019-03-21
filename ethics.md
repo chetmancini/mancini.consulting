@@ -6,6 +6,13 @@ nav-active-ethics: active
 
 # Ethics and Disclaimer
 
+## Promises
+
+I will never do something more slowly on purpose.
+
+Where published, my work will include a clear statement of who funded the work.
+
+
 ## Technical Issues
 The code I write will probably have some kind of error in it. That's an unfortunate fact of life for all software engineers; I always try my best to write error-free code. Sometimes it might be too expensive in terms of time to fix a particular error. It might require hours of additional feature work that aren't worth the time, or the error might occur so rarely that would be appropriate to handle if you were e.g. building a rocket ship, but not common web software. I'll try to use my best judgment about this tradeoff, but I could make a mistake.
 
@@ -31,7 +38,7 @@ Occasionally I may do a short experiment with a new or unfamiliar technology, ev
 
 If I have a choice between two solutions to a problem that are equivalent in implementation time/error rate/etc, I will choose the one that is more likely to advance my career, or lead to a future talk/blog post. I'm happy to credit you as a sponsor if I develop a blog post or talk based on something I've learned while working with you.
 
-I will never do something more slowly on purpose.
+
 
 ## Unethical Requests
 I do not do work I believe is unethical. It can be difficult to enumerate all possibilities, but a few of the types of work I will not participate in:
