@@ -14,10 +14,10 @@ There's a good chance I can add massive value to your business too. I would be h
 
 ## Key areas of expertise
 
-* Large data systems and pipelines
-* Machine learning productionization
-* Hiring and recruiting top tier engineers
-* AWS/cloud cost control
+* Large data systems and pipelines in marketing, ecommerce, and online advertising industries
+* AI & Machine learning productionization at scale
+* Hiring and recruiting top tier engineers and analysts in data-oriented roles
+* AWS/cloud infrastructure management
 * Security infrastructure
 * Data governance and privacy
 
