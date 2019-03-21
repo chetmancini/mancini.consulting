@@ -10,7 +10,7 @@ I have a strong track record of impacting business with state of the art technic
 
 There's a good chance I can add massive value to your business too. I would be happy to meet and talk about what we can build together.
 
-<img src="/assets/img/chet_stairs.jpg" id="img-chet-stairs" width="400">
+<img src="/assets/img/chet_stairs.jpg" id="img-chet-stairs" width="400" style="border-radius: 4px;">
 
 ## Key areas of expertise
 
@@ -21,11 +21,13 @@ There's a good chance I can add massive value to your business too. I would be h
 * Security infrastructure
 * Data governance and privacy
 
-<img src="/assets/img/newyork.jpg" id="img-newyork" width="200">
+
 
 ## Previous Work
 
 A <a href="cv.html">traditional CV</a> of work is available as well.
+
+<img src="/assets/img/newyork.jpg" id="img-newyork" width="200" class="ml-5 my-5 float-right" style="border-radius: 4px;">
 
 ### Problem: Very large database queries in Python taking too much memory on Linux.
 Solution: Build Java-based SQL query system that can flexibly perform the same actions with a much better garbage collector and constrained heap size with the JVM.
