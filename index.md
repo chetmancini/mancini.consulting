@@ -10,7 +10,7 @@ I have a strong track record of delivery with state-of-the-art human and technic
 
 There's a good chance I can add massive value to your business too. I would be happy to meet and talk about what we can build together.
 
-<img src="/assets/img/chet_stairs.jpg" id="img-chet-stairs" width="400" style="border-radius: 4px; max-width: 80%">
+<img src="/assets/img/chet_stairs.jpg" id="img-chet-stairs" width="400" class="my-3" style="border-radius: 4px; max-width: 80%">
 
 ## Key areas of expertise
 
