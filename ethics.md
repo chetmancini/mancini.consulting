@@ -8,15 +8,15 @@ nav-active-ethics: active
 
 ## Promises
 
-I will never do something more slowly on purpose.
+I always provide my best work, leveraging all my experience.
 
 Where published, my work will include a clear statement of who funded the work.
 
 
 ## Technical Issues
-The code I write will probably have some kind of error in it. That's an unfortunate fact of life for all software engineers; I always try my best to write error-free code. Sometimes it might be too expensive in terms of time to fix a particular error. It might require hours of additional feature work that aren't worth the time, or the error might occur so rarely that would be appropriate to handle if you were e.g. building a rocket ship, but not common web software. I'll try to use my best judgment about this tradeoff, but I could make a mistake.
+The code I write will probably have some kind of errors in it. That is an unfortunate fact of life for all software engineers; I always try my best to write error-free code. Sometimes it might be too expensive in terms of time to fix a particular error. It might require hours of additional feature work that aren't worth the time, or the error might occur so rarely that would be appropriate to handle if you were e.g. building a rocket ship, but not common web software. I'll try to use my best judgment about this tradeoff, but I could make a mistake.
 
-When researching the right way to solve a problem, I need to make a tradeoff between spending more time to research a solution, and beginning to implement the best solution I have so far. I have been building software for a fair amount of time, and have an idea of how to solve a lot of common problems. I've also had to make this tradeoff a fair number of times in the past, and consider:
+When researching the right way to solve a problem, I need to make a tradeoff between spending more time to research a solution, and beginning to implement the best solution I have so far. I have been building software for a fair amount of time, and have an idea of how to solve a lot of common problems. I have also had to make this tradeoff a fair number of times in the past, and consider:
 
 * The costs of getting the implementation wrong
 * The current solution's ability to solve the problem

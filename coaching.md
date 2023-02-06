@@ -20,5 +20,5 @@ Get in touch with me at <a href="mailto:chet@mancini.consulting">chet@mancini.co
 
 ## Financial
 
-I worked in finance portfolio managment for over a year and have a good nonprofessional understanding of personal finance. I have and recommend Betterment. If you are looking for a roboadvisor you can use <a href="https://www.betterment.com/invite/chestermancini
+I worked in finance portfolio management for over a year and have a good nonprofessional understanding of personal finance. I have and recommend Betterment. If you are looking for a roboadvisor you can use <a href="https://www.betterment.com/invite/chestermancini
 ">my referral link</a> an get 90 days managed free.
